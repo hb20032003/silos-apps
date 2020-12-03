@@ -3,7 +3,7 @@
         "scope": ["https?\\:\\/\\/docs\\.google\\.com\\/document(?:\\/.*|)"],
         "plugins": [
             { "name": "GoogleAuthentication" },
-            { "name": "ChangeUserAgent", "user-agent": "chrome" }
+            { "name": "ChangeUserAgent", "user-agent": "firefox" }
         ],
         "home": "http://docs.google.com/document",
         "icon": "icons/google-documents.svg",
